@@ -1,0 +1,17 @@
+.p{
+  width: 29%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  height: 45px;
+  margin-top: 10px;
+}
+.q{
+  display: flex;
+  gap: 5px;
+}
+.r{
+  padding-top: 18px;
+  color: white;
+}
